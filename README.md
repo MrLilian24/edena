@@ -23,5 +23,5 @@ pip install -r requirements.txt
 
 ## License
 
-- **Code**: Apache 2.0 — see [LICENSE](LICENSE)
-- **Model & Data**: CC BY-NC-SA 4.0 — see [LICENSE_MODEL](LICENSE_MODEL)
+- **Code**: Apache 2.0 - see [LICENSE](LICENSE)
+- **Model & Data**: CC BY-NC-SA 4.0 - see [LICENSE_MODEL](LICENSE_MODEL)
