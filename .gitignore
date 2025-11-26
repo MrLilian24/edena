@@ -209,4 +209,5 @@ __marimo__/
 .env
 data/raw/*
 outputs/checkpoints/*
+outputs/exports/*
 *.DS_Store
